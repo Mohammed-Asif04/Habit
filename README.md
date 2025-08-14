@@ -1,15 +1,24 @@
-<h1 align="center">Welcome to zustand 👋</h1>
+<h1 align="center">Welcome to Zustand (Habit Tracker) 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/zustand" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/zustand.svg">
-  </a>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
+
+> React Zustand + Material UI Starter
+
+### 🏠 [Homepage](A modern React template showcasing Zustand for state management and Material UI for sleek, responsive UI components.)
+
+### ✨ [Demo](Material UI Integration)
 
 ## Install
 
 ```sh
 npm install
 ```
+
+## Author
+
+👤 **Mohammed Asif**
+
 
 ## Show your support
 
