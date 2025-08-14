@@ -3,7 +3,7 @@
 
 A sleek and efficient habit-tracking application designed to help users build and maintain positive routines. This project demonstrates modern React state management with Zustand, type safety with TypeScript, and a polished UI using Material UI.
 
-🔗 **GitHub Repository**: [https://github.com/Mohammed-Asif04/Zustand.git](https://github.com/Mohammed-Asif04/Zustand.git)
+🔗 **GitHub Repository**: [https://github.com/Mohammed-Asif04/Habit.git](https://github.com/Mohammed-Asif04/Habit.git)
 
 ---
 
@@ -11,7 +11,7 @@ A sleek and efficient habit-tracking application designed to help users build an
 
 <table>
   <tr>
-    <td width="75%" valign="top">
+  <td width="50%" valign="top">
 
 ### **1. State Management with Zustand & TypeScript**  
 🔹 **Type-safe global stores** for habits, progress, and user preferences.  
@@ -36,7 +36,7 @@ A sleek and efficient habit-tracking application designed to help users build an
 🔹 **Clean folder structure** for scalability.  
 🔹 **ESLint + Prettier** for consistent code formatting.  
 
-  </td>
+   </td>
   </tr>
 </table>  
 
@@ -71,4 +71,3 @@ npm start
 | ![Zustand](https://img.shields.io/badge/Zustand-4+-000?logo=zustand) | ^4.4.0 | [zustand-demo.pmnd.rs](https://docs.pmnd.rs/zustand/getting-started/introduction) |
 | ![Material UI](https://img.shields.io/badge/Material_UI-5+-0081CB?logo=mui) | ^5.14.0 | [mui.com](https://mui.com/material-ui/getting-started/) |
 
----
