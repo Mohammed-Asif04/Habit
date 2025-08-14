@@ -11,7 +11,7 @@ A sleek and efficient habit-tracking application designed to help users build an
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="75%" valign="top">
 
 ### **1. State Management with Zustand & TypeScript**  
 🔹 **Type-safe global stores** for habits, progress, and user preferences.  
@@ -23,8 +23,8 @@ A sleek and efficient habit-tracking application designed to help users build an
 🔹 **Responsive design** – Works on mobile, tablet, and desktop.  
 🔹 **Pre-built MUI components** (Cards, Dialogs, Snackbars, Progress Indicators).  
 
-    </td>
-    <td width="50%" valign="top">
+  </td>
+  <td width="50%" valign="top">
 
 ### **3. Core Habit Tracking Functionality**  
 🔹 **Add, edit, and delete habits** with intuitive controls.  
@@ -36,7 +36,7 @@ A sleek and efficient habit-tracking application designed to help users build an
 🔹 **Clean folder structure** for scalability.  
 🔹 **ESLint + Prettier** for consistent code formatting.  
 
-    </td>
+  </td>
   </tr>
 </table>  
 
