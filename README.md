@@ -1,4 +1,4 @@
-# Habit Tracker - A Modern Habit Tracking App  
+# 🎯 Habit Tracker - A Modern Habit Tracking App  
 **Built with React, Zustand, TypeScript & Material UI**  
 
 A sleek and efficient habit-tracking application designed to help users build and maintain positive routines. This project demonstrates modern React state management with Zustand, type safety with TypeScript, and a polished UI using Material UI.
@@ -70,4 +70,16 @@ npm start
 | ![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6?logo=typescript) | ^5.0.0 | [typescriptlang.org](https://www.typescriptlang.org/docs/) |
 | ![Zustand](https://img.shields.io/badge/Zustand-4+-000?logo=zustand) | ^4.4.0 | [zustand-demo.pmnd.rs](https://docs.pmnd.rs/zustand/getting-started/introduction) |
 | ![Material UI](https://img.shields.io/badge/Material_UI-5+-0081CB?logo=mui) | ^5.14.0 | [mui.com](https://mui.com/material-ui/getting-started/) |
+
+---
+## 🌍 Live Previews
+
+
+<table>
+  <tr>
+    <td>
+    <img width="1900" height="1175" alt="Habit-Tracker" src="https://github.com/user-attachments/assets/16a9554a-5f8d-45b1-99aa-43c6041075ca" />
+    </td>
+  </tr>
+</table>
 
